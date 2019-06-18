@@ -44,7 +44,7 @@ public class DetailsFragment extends android.support.v4.app.Fragment{
     private GraphFragment graphFragment;
     private double currentRate;
     public DetailsFragment() {
-        //  empty constructor
+        //  constructor k đối số
     }
 
     public static DetailsFragment newInstance(String userName) {
