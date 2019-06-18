@@ -46,4 +46,4 @@ An Android application developed to help control day-to-day expenses.
 
 ## Author
 
-[Marcelo Longen](http://www.marcelolongen.com) - Student at [CICCC](http://www.ciccc.ca)
+
