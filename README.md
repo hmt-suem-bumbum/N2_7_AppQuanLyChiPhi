@@ -8,18 +8,20 @@
 [![Version](https://img.shields.io/badge/version-beta%200.12-green.svg)]
 [![Developed with](https://img.shields.io/badge/developed%20with-API27-red.svg)]
 
-An Android application developed to help control day-to-day expenses.
+Một ứng dụng Android được phát triển để giúp kiểm soát chi phí hàng ngày.
 
- <img src="http://marcelo.co.technology/img/expensemanager.gif?raw=true">
+ 
 
  <br>
  <br>
 
- - The data is displayed on a table, which can be filtered by month. 
- 
- - User can easily track their expenses and visualize information on different kinds of charts.
- 
- - User can convert its expenses on the go by selecting a currency. Utilizes an external currency conversion API.
+- Dữ liệu được hiển thị trên bảng, có thể được lọc theo tháng.
+ 
+- Người dùng có thể dễ dàng theo dõi chi phí của mình và trực quan hóa thông tin trên các loại biểu đồ khác nhau.
+ 
+- Người dùng có thể chuyển đổi chi phí khi đang di chuyển bằng cách chọn loại tiền. Sử dụng API chuyển đổi tiền tệ bên ngoài.
+
+- Người dùng được nhắc thông báo nhập chi phí mỗi ngày, giúp kiểm soát chi phí của người dùng tốt hơn.
 
  ## Libraries used
 
@@ -45,5 +47,6 @@ An Android application developed to help control day-to-day expenses.
 
 
 ## Author
+Manh Thu Ha
 
 
